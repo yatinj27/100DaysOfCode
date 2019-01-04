@@ -1,11 +1,8 @@
 # Yatin Jain
 
-(About/info/what are you gonna do in upcomingg 100 days taking #100daysofcode challenge.)
-
+This is Yatin Jain 1st year student in B. tech from JECRC University.I am participating in 100DaysOfCode to create a habit for me to learn and code daily.I am a good learner,i hope to enhance my knowledge and practice more.
 ### Day 1
-
-(progress)
-
+Started with my Intro to Python:Fundamentals course on Edx.
 ### Day 2
 
 
